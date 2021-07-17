@@ -5,6 +5,9 @@ tags: useR
 
 # The journey towards an inclusive conference
 
+[![hackmd-github-sync-badge](https://hackmd.io/VzFZVH19QPeeZOpbpm6fHw/badge)](https://hackmd.io/VzFZVH19QPeeZOpbpm6fHw)
+
+
 Potential coauthors: Andrea, Joselyn, Liz, Rocío, Sara, Pao, Heather, David
 
 At useR! 2020, there was a Forwards panel named <a href="https://www.youtube.com/watch?v=gDO1OphmF5Q&t=1956s">Supporting diversity in the R community</a>. In it, the panelists and chairs discussed the future of useR! events and other conferences in online venues and the opportunities for inclusion of marginalized communities and for diversifying the attendance to them. The communities represented included users with disabilities, <a href="https://mircommunity.com/">MiR</a>, <a href="https://latin-r.com/">LatinR</a> and <a href="https://africa-r.org/">AfricaR</a>. They discussed the diversity scholarship programs and new ideas to implement them in an online context, and how to uplift and allow for the occupation of the community spaces by people from diverse backgrounds. 
